@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3c801a43dba903003dadd190cf9619c7" sys_domain="global" table="x_166404_innovate_table1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-06 10:01:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd801a43dba903003dadd190cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_166404_innovate_table1" name="x_166404_innovate_table1" sys_domain="global" view="Default view">3c801a43dba903003dadd190cf9619c7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_166404_innovate_table1" sys_domain="global" view="Default view">42f7b547db6903003dadd190cf961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-06 10:01:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-06 10:01:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89801a43dba903003dadd190cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_166404_innovate_table1" name="x_166404_innovate_table1" sys_domain="global" view="Default view">3c801a43dba903003dadd190cf9619c7</sys_ui_form>
+            <sys_ui_section caption="My idea" display_value="My idea" name="x_166404_innovate_table1" sys_domain="global" view="Default view">3c801a43dba903003dadd190cf9619c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-06 10:01:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_166404_innovate_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-06 10:01:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c801a43dba903003dadd190cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_166404_innovate_table1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_166404_innovate">396c9236dbe103003dadd190cf96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">396c9236dbe103003dadd190cf96192c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3c801a43dba903003dadd190cf9619c7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-06 10:01:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
